@@ -1,0 +1,3 @@
+/* Minimal styling to avoid detection */
+body { margin: 0; padding: 0; display: none; }
+iframe { display: none; }
